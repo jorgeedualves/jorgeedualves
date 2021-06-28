@@ -8,6 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 I am a beginner developer in 2021 through the learning of the 42 São Paulo school. With the intention of collaborating through technology with my country!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=radical)
 
 Feel free to get in touch with me:
