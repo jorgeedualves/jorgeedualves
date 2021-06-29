@@ -26,6 +26,6 @@ Feel free to get in touch with me:
   <a href="https://api.whatsapp.com/send?phone=55940221331&text=Olá%20Jorge,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5592940221331&text=Olá%20Jorge,%20tudo%20bem?"/></a>
 
-  <a href="https://www.instagram.com/dj_jota_alves/" alt="Instagram">
+  <a href="https://www.instagram.com/devjota/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dj_jota_alves/"/></a>
 </p>  
