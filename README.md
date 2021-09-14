@@ -16,7 +16,7 @@ I am a beginner developer in 2021 through the learning of the 42 São Paulo scho
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-  
+<br>  
 Feel free to get in touch with me:
 :arrow_down:
 
