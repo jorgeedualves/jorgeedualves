@@ -1,23 +1,21 @@
-### Hi there, jorge Alves here 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Jorgee Alves">
+### Hi there, Alfredo here 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Alfredo Neto">
 
-## I am a student of programming in the languages C, C++, Git, Github.
+I’m a self taught web developer since 2020, currently building personal projects with focus on code quality and user experience. In order to turn easier the life of people around me and also my own, i have been solving day-to-day problems by creating valuable and scalable web applications.
 
-I am a beginner developer in 2021 through the learning of the 42 São Paulo school. With the intention of collaborating through technology with my country!
+Currently studying OOP PHP with good practices and clean architecture, ReactJS and NodeJS.
+
+<br>
+
+- Studying Software Engineering at 42SP.
 
 ## My current stats
 
-<br>
-
 <div>
-  <a href="https://github.com/jorgeedualves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/Alfredo-Neto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Neto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Neto&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
-<div>
-Feel free to get in touch with me:
-:arrow_down:
-
 <div>
   
   ## Feel free to get in touch with me:
