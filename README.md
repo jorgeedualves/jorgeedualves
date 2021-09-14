@@ -9,10 +9,14 @@
 
 I am a beginner developer in 2021 through the learning of the 42 São Paulo school. With the intention of collaborating through technology with my country!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&layout=compact&theme=radical)
+## My current stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&theme=radical)](https://github.com/jorgeedualves/github-readme-stats)
-
+<div>
+  <a href="https://github.com/jorgeedualves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
 Feel free to get in touch with me:
 :arrow_down:
 
