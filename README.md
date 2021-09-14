@@ -1,13 +1,12 @@
 ### Hi there, jorge Alves here 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Jorgee Alves">
-<br>
+
 ## I am a student of programming in the languages C, C++, Git, Github.
 
-- 🌱 Currently learning more of full stack.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
 I am a beginner developer in 2021 through the learning of the 42 São Paulo school. With the intention of collaborating through technology with my country!
+
+<br>
 
 ## My current stats
 
