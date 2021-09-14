@@ -16,22 +16,15 @@ I am a beginner developer in 2021 through the learning of the 42 São Paulo scho
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<br>  
+<br>
+<div>
 Feel free to get in touch with me:
 :arrow_down:
 
-<p align="left">
-  <a href="mailto:jorgeedualves84@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=" /></a>
-
-  <a href="https://www.linkedin.com/in/jorge-eduardo-alves-094b4331/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-eduardo-alves-094b4331/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=55940221331&text=Olá%20Jorge,%20tudo%20bem?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5592940221331&text=Olá%20Jorge,%20tudo%20bem?"/></a>
-
-  <a href="https://www.instagram.com/devjota/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dj_jota_alves/"/></a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=jorgeedualves&color=blueviolet)
+<div>
+  
+  ## Feel free to get in touch with me:
+  <a href="https://instagram.com/alfredobraule" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alfredoneto934@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alfredo-neto-a2515814b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
