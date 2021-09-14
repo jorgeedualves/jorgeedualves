@@ -1,14 +1,12 @@
-### Hi there, jorge Alves here 👋
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Jorgee Alves">
+### Hi there, jorge Alves here 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Jorgee Alves">
 
 ## I am a student of programming in the languages C, C++, Git, Github.
 
 I am a beginner developer in 2021 through the learning of the 42 São Paulo school. With the intention of collaborating through technology with my country!
 
-<br>
-
 ## My current stats
+
+<br>
 
 <div>
   <a href="https://github.com/jorgeedualves">
