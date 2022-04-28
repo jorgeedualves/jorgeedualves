@@ -1,12 +1,15 @@
 ### Hi there, jorge Alves here 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="jorge Alves">
 
+Sou desenvolvedor web autodidata desde 2020, atualmente construindo projetos pessoais com foco em qualidade de código e experiência do usuário.  Para facilitar a vida das pessoas ao meu redor e também a minha, venho resolvendo problemas do dia a dia criando aplicações web valiosas e escaláveis.
+
 I’m a self taught web developer since 2020, currently building personal projects with focus on code quality and user experience. In order to turn easier the life of people around me and also my own, i have been solving day-to-day problems by creating valuable and scalable web applications.
 
-Currently studying OOP PHP with good practices and clean architecture, ReactJS and NodeJS.
+:rocket: Atualmente estou cursando Engenharia de Software na 42 São Paulo!
+:rocket: I’m currently studying Software Engineering at 42 São Paulo! 
 
 <br>
 
-- Studying Software Engineering at 42SP.
+## - Studying Software Engineering at 42SP.
 
 ## My current stats
 
@@ -24,8 +27,9 @@ Currently studying OOP PHP with good practices and clean architecture, ReactJS a
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 <br>
-<div>
-  ## Feel free to get in touch with me:<br />
+  
+## Feel free to get in touch with me:
+ <div>
   <a href="https://instagram.com/devjota" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jorgeedualves84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jorge-eduardo-alves-094b4331/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
