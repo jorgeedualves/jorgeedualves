@@ -17,7 +17,9 @@ Currently studying OOP PHP with good practices and clean architecture, ReactJS a
 </div>
 <br>
 <div>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />       
+</div>
+<div>
   ## Feel free to get in touch with me:
   <a href="https://instagram.com/devjota" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jorgeedualves84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
