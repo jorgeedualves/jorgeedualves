@@ -4,7 +4,7 @@ Sou desenvolvedor web autodidata desde 2020, atualmente construindo projetos pes
 
 I’m a self taught web developer since 2020, currently building personal projects with focus on code quality and user experience. In order to turn easier the life of people around me and also my own, i have been solving day-to-day problems by creating valuable and scalable web applications.
 
-:rocket: Atualmente estou cursando Engenharia de Software na 42 São Paulo!
+:rocket: Atualmente estou cursando Engenharia de Software na 42 São Paulo! <br />
 :rocket: I’m currently studying Software Engineering at 42 São Paulo! 
 
 <br>
