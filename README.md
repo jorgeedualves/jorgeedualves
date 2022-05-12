@@ -9,7 +9,7 @@ I’m a self taught web developer since 2020, currently building personal projec
 
 <br>
 
-## - Studying Software Engineering at 42SP.
+## Studying Software Engineering at 42SP.
 
 ## My current stats
 
