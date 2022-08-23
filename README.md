@@ -19,7 +19,8 @@ I’m a self taught web developer since 2020, currently building personal projec
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
   <br>
 </div>
-<br>
+
+## 42SP Fundamentals Curriculum:
   
 ## Fase 1:
 
@@ -31,16 +32,18 @@ I’m a self taught web developer since 2020, currently building personal projec
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" />
 </div>
-  <br>
 
   ## Fase 2:
   
-<div>
+<div style="display: inline_block"><br>
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minishelle.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" />
-</div>  
+  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" /><br>
+</div> 
+
+# Language learned:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
