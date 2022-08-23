@@ -17,10 +17,10 @@ I’m a self taught web developer since 2020, currently building personal projec
   <a href="https://github.com/jorgeedualves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
+  <br>
 </div>
-<br><br>
-<img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" />
-
+<br>
+  
 ## Fase 1:
 
 <div style="display: inline_block"><br>
@@ -30,8 +30,17 @@ I’m a self taught web developer since 2020, currently building personal projec
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/born2beroote.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" />
+</div>
   <br>
-</div)
+
+  ## Fase 2:
+  
+<div>
+  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minishelle.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" />
+</div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
