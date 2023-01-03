@@ -39,7 +39,9 @@ I’m a self taught web developer since 2020, currently building personal projec
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minishelle.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" /><br>
+  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png" /><br>
+  
 </div> 
 
 # Language learned:
