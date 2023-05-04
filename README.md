@@ -11,14 +11,14 @@ I’m a self taught web developer since 2020, currently building personal projec
 
 ## Studying Software Engineering at 42SP.
 
-## My current stats
+<!-- ## My current stats -->
 
-<div>
+<!-- <div>
   <a href="https://github.com/jorgeedualves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
   <br>
-</div>
+</div> -->
 
 ## 42SP Fundamentals Curriculum:
   
