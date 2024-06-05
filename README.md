@@ -1,8 +1,8 @@
 ### Hi there, jorge Alves here 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="jorge Alves">
 
-Sou desenvolvedor web autodidata desde 2020, atualmente construindo projetos pessoais com foco em qualidade de código e experiência do usuário.  Para facilitar a vida das pessoas ao meu redor e também a minha, venho resolvendo problemas do dia a dia criando aplicações web valiosas e escaláveis.
+Sou desenvolvedor web autodidata desde 2020, atualmente construo projetos pessoais com foco em qualidade de código e experiência do usuário. Para facilitar a vida das pessoas ao meu redor, e também a minha, venho resolvendo problemas do dia a dia, criando aplicações web valiosas e escaláveis.
 
-I’m a self taught web developer since 2020, currently building personal projects with focus on code quality and user experience. In order to turn easier the life of people around me and also my own, i have been solving day-to-day problems by creating valuable and scalable web applications.
+I have been a self-taught web developer since 2020, currently building personal projects with a focus on code quality and user experience. To make life easier for the people around me, and for myself as well, I have been solving everyday problems by creating valuable and scalable web applications.
 
 :rocket: Atualmente estou cursando Engenharia de Software na 42 São Paulo! <br />
 :rocket: I’m currently studying Software Engineering at 42 São Paulo! 
