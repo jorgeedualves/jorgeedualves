@@ -52,6 +52,7 @@ I’m a self taught web developer since 2020, currently building personal projec
  
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/cppe.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/inceptione.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/webservm.png" />
   
 </div> 
 
