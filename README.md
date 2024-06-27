@@ -14,11 +14,8 @@ I have been a self-taught web developer since 2020, currently building personal 
 <img align="center" alt="Jorge-C" height="100" width="100" src="img/phase_onee.png" />
 <img align="center" alt="Jorge-C" height="100" width="100" src="img/phase_twoe.png" />
 <img align="center" alt="Jorge-C" height="100" width="100" src="img/phase_threen.png" />
-</div>
-<div>
 <img align="center" alt="Jorge-C" height="100" width="100" src="img/common_coren.png" />
 </div>
-
 
 ## 42SP Fundamentals Curriculum:
   
