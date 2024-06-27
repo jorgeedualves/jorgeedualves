@@ -10,15 +10,15 @@ I have been a self-taught web developer since 2020, currently building personal 
 <br>
 
 ## Studying Software Engineering at 42SP.
+<div style="display: inline_block"><br>
+<img align="center" alt="Jorge-C" height="100" width="100" src="img/phase_onee.png" />
+<img align="center" alt="Jorge-C" height="100" width="100" src="img/phase_twoe.png" />
+<img align="center" alt="Jorge-C" height="100" width="100" src="img/phase_threen.png" />
+</div>
+<div>
+<img align="center" alt="Jorge-C" height="100" width="100" src="img/common_coren.png" />
+</div>
 
-<!-- ## My current stats -->
-
-<!-- <div>
-  <a href="https://github.com/jorgeedualves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
-  <br>
-</div> -->
 
 ## 42SP Fundamentals Curriculum:
   
@@ -53,6 +53,7 @@ I have been a self-taught web developer since 2020, currently building personal 
   <img align="center" alt="Jorge-C" height="100" width="100" src="img/cppe.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="img/inceptione.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="img/webservm.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/ft_transcendencen.png" />
   
 </div> 
 
@@ -68,6 +69,7 @@ I have been a self-taught web developer since 2020, currently building personal 
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
   
 
 
