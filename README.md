@@ -26,23 +26,23 @@ I have been a self-taught web developer since 2020, currently building personal 
 
 <div style="display: inline_block"><br>
    
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/born2beroote.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/libftm.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/get_next_linem.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/ft_printfm.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/born2beroote.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/so_longm.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/minitalkm.png" />
 </div>
 
   ## Fase 2:
   
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minishelle.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png" /><br>
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/push_swape.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/minishelle.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/philosopherse.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/netpracticee.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/cub3dm.png" /><br>
   
 </div> 
 
@@ -50,9 +50,9 @@ I have been a self-taught web developer since 2020, currently building personal 
   
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/cppe.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/inceptione.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/webservm.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/cppe.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/inceptione.png" />
+  <img align="center" alt="Jorge-C" height="100" width="100" src="img/webservm.png" />
   
 </div> 
 
